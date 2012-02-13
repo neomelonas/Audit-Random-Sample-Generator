@@ -21,7 +21,7 @@ Sub RandNumGen()
         varOfHolding As Long, _
         checker As Boolean, _
         mine As String
-        
+    
     Application.Volatile
     
     'Make sure the output doesn't have overlap
